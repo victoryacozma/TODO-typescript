@@ -11,7 +11,7 @@ export default function Home(props: any){
         <View style = {styles.container}> 
             <Text >Home page</Text>
             <Button title = 'View the To-do list' onPress = {pressHandler}/> 
-            <Button title = 'Add ToDo' onPress = {pressHandler}/> 
+            <Button title = 'Add ToDo Here' onPress = {pressHandler}/> 
           
 
         </View>
